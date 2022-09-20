@@ -25,6 +25,11 @@ int main(void) {
 		student = 0;
 		sum = 0;
 		average = 0;
+
+		int a = 0;
+		float b = 0;
+		return 0;
 	}
+
 } 
 
